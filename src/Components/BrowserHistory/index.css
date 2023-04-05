@@ -1,0 +1,29 @@
+.item {
+  display: flex;
+  margin: 10px;
+  padding: 5px;
+  align-items: center;
+  justify-content: space-between;
+  font-family: 'Roboto';
+}
+.app-details {
+  display: flex;
+  color: #64748b;
+  font-size: 14px;
+}
+.title {
+  color: #475569;
+  font-weight: bold;
+  margin-right: 10px;
+}
+.app-logo {
+  height: 25px;
+  width: 25px;
+  margin-top: 10px;
+  margin: 14px;
+  margin-left: 60px;
+}
+.delete-icon {
+  height: 20px;
+  width: 20px;
+}
